@@ -56,19 +56,9 @@ public struct Recursion {
     ///                                          runningEverytime: { print("base task!") })
     ///
     ///    recur {
-    ///
-    ///        print("*")
-    ///
     ///        recur {
-    ///
-    ///            print("**")
-    ///
     ///            recur {
-    ///
-    ///                print("***")
-    ///
     ///                recur {
-    ///                    print("****")
     ///                    print("yay!")
     ///                }
     ///            }
