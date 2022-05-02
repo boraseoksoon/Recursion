@@ -1,5 +1,5 @@
 # Recursion
-Data structure using recursion (POC for now)
+Boring Data structure collection taking advantage of recursion (POC for now)
 
 # How to use
 
